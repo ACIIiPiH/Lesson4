@@ -1,5 +1,5 @@
-#Ignore files beam.
 *.beam
+ebin
 
 #Ignore EUNIT
 .eunit
